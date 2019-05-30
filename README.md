@@ -112,7 +112,7 @@ admin.initializeApp({
 1. Set up the web portal
 
 ```
-cd frontend
+cd smart-home-frontend
 npm install
 npm run create-firebase-config
 npm run serve
